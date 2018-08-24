@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# hellonodemicroclimate
 A generated IBM Cloud application
 
 [![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://bluemix.net)
@@ -24,6 +22,3 @@ npm run idt:run
 # Deploy your app to IBM Cloud:
 npm run idt:deploy
 ```
-=======
-# hellonodemicroclimate
->>>>>>> dac729cc05f09f1e91ca37b7b5cd56a4517c0b50
